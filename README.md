@@ -14,4 +14,4 @@ An practical self-driving inputing in car camera outputing steering wheel angle
 
 ### Model Download
 
-
+[Model](https://drive.google.com/open?id=1zOdrGCoQuCtOaLVRS1IzVvA1F21ZGJh6)
