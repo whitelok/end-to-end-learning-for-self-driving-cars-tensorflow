@@ -9,4 +9,4 @@ An practical self-driving inputing in car camera outputing steering wheel angle
 
 ### Model Structure
  
- ![avatar](http://baidu.com/pic/doge.png)
+ ![Model Structure](https://github.com/whitelok/end-to-end-learning-for-self-driving-cars-tensorflow/blob/master/resources/imgs/ModelStructure.PNG)
